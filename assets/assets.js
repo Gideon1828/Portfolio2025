@@ -85,15 +85,15 @@ export const workData = [
         title: 'Recipe Generator',
         description: 'Web App',
         bgImage: '/project1.png',
-        link:'https://github.com/Gideon1828/Dishy.git',
+        link:'https://github.com/Gideon1828/Dishy-2025',
     },
     {
         title: 'News Aggregator',
         description: 'Web App',
         bgImage: '/project2.jpg',
-        link:'https://github.com/Gideon1828/NewsSphere.git',
+        link:'https://github.com/Gideon1828/NewsSphere',
     },
-    {
+    /* {
         title: 'DeepFake Detection',
         description: 'Web App',
         bgImage: '/project3.png',
@@ -104,7 +104,7 @@ export const workData = [
         description: 'Designs using Figma',
         bgImage: '/work-4.png',
         link:'https://github.com/Gideon1828/Designs.git',
-    },
+    }, */
 ]
 
 export const serviceData = [
@@ -115,9 +115,9 @@ export const serviceData = [
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js, Node' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Node Js, Express Js' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Information Technology' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 3 projects' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 2 projects' }
 ];
 
 export const toolsData = [

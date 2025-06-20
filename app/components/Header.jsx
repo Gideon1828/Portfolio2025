@@ -31,8 +31,8 @@ const Header = () => {
         whileInView={{opacity:1}}
         transition={{duration:0.6,delay:0.7}} 
         className="max-w-2xl max-auto font-Ovo">
-            Hi! I'm Software Developer from Chennai , India. I have Completed Four Projects in Web development using
-            Advanced frameworks like React and Next.js
+            Hi! I'm Software Developer from Chennai , India. I have Completed Two Projects in Web development using
+            Advanced frameworks like React.js and Node.js
         </motion.p>
         <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
             <motion.a 
